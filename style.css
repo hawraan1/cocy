@@ -1,0 +1,27 @@
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(191, 151, 229);
+}
+
+h1{
+    color: rgb(105, 224, 186);
+    color:red;
+}
+
+.c1{
+    color: rgb(124, 53, 232);
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.c2{
+    color: rgb(169, 44, 115);
+}
+
+hr{
+border-style: dotted;
+border-top:none ;
+border-width: 5px;
+width: 10%;
+border-color: rgb(141, 114, 165);
+}
